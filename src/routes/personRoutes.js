@@ -4,8 +4,8 @@ const router = express.Router();
 
 router.post("/criar", doacaoController.criaDoacao);
 router.get('/buscar',doacaoController.findAllMedicamentos)
-router.put('/atualizar',doacaoController.updateCadastro)
-router.delete('/deleta',doacaoController.deleteCadastro)
+router.put('/atualizar/:id',doacaoController.updateCadastro)
+router.delete('/delete/:id',doacaoController.deleteCadastro)
 
 module.exports = router
 
