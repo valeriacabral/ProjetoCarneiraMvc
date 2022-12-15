@@ -36,31 +36,31 @@ Rotas🐾
 
 📁 Arquitetura MVC🐾
 📁Projeto Carneira
-   |
-   |--📁node_modules
-   |
-   |--📁 src
-   |  ||
-   |  ||
-   |  ||--📁 controllers
-   |  |    |- 📄 doacaoController.js
-   |  ||--📁 database
-   |  |    |- 📄 dbconectConnect.j
-   |  ||--📁 models
-   |  |    |- 📄 pessoa.js
-   |  ||--📁 routes
-   |  |    |- 📄 index.js
-   |  |    |- 📄 person.js
-   |  ||-📄 app.js
-   |  |--📁 swagger
-   |  |
-   |- 📄 .env
-   |- 📄 .gitignore
-   |- 📄 package-lock.json
-   |- 📄 package.json
-   |- 📄 README.md
-   |- 📄 server.js
-   |- 📄 swagger.js
+|
+|--📁node_modules
+|
+|--📁 src
+|  ||
+|  ||
+|  ||--📁 controllers
+|  |    |- 📄 doacaoController.js
+|  ||--📁 database
+|  |    |- 📄 dbconectConnect.j
+|  ||--📁 models
+|  |    |- 📄 pessoa.js
+|  ||--📁 routes
+|  |    |- 📄 index.js
+|  |    |- 📄 person.js
+|  ||-📄 app.js
+|  |--📁 swagger
+|  |
+|- 📄 .env
+|- 📄 .gitignore
+|- 📄 package-lock.json
+|- 📄 package.json
+|- 📄 README.md
+|- 📄 server.js
+|- 📄 swagger.js
 
 
 
