@@ -14,7 +14,7 @@ Turma On19 backend da {Reprograma}
 
 ## 🚀 Descrição API -       Projeto Carneira🐾
 
-O proposito desse projeto ,e fazer parceria com o hospital veterinário da cidade do Recife e ter uma Farmácia do SUS, para receber doações de medicamentos mesmo usados dentro do prazo de  validade , rações especiais e o que necessário for para ajudar no tratamento dos animais que precisam de medicamentos e um tratamento diferenciado  podendo também contribuirem com dinheiro sendo depositado na conta de um administrador , que passará todo relatório do dinheiro que entrar.esse projeto e sem fins lucrativos em prol da causa animal, buscando parceria e mantenedores para atender os animais de maior necessidade
+O proposito desse projeto, é fazer parceria com o hospital veterinário da cidade do Recife, e ter uma Farmácia do SUS, para receber doações de medicamentos mesmo usados dentro do prazo de  validade; rações especiais e o que for necessário para ajudar no tratamento dos animais que precisam de medicamentos e um tratamento diferenciado, podendo também contribuir em dinheiro sendo depositado na conta de um administrador, que passará todo o relatório do dinheiro que entrar. Esse projeto é sem fins lucrativos, e em prol da causa animal, buscando parceria e mantenedores para atender os animais que possuem maiores necessidades
 
 
 
@@ -126,7 +126,7 @@ https://www.linkedin.com/in/val%C3%A9ria-nunes-b87049191/
 
 
 
-![ texto](https://uploaddeimagens.com.br/imagens/Df0AFWQ)
+![ carneira](https://uploaddeimagens.com.br/images/004/261/101/original/Carneira1.png?1671064366)
 
 
 
