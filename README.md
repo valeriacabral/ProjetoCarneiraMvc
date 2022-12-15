@@ -8,7 +8,7 @@ Turma On19 backend da {Reprograma}
 
  ### 🐾Este projeto é uma API com CRUD completo🐾
   
- O projeto carneira foi inspirado em uma gatinha deficiente que eu tive, que infelizmente faleceu no dia 12/07/2022, por conta de uma cistitee constipação (ou obstipação) intestinal. Ela me motivou muito, pois mesmo com as suas dificuldades de locomoção, e outros problemas acarretados pela sua deficiência, isso nunca foi um empecilho para que ela vivesse plenamente, e sempre feliz, mas também sempre pensando nos seus amiguinhos, e com seu espírito de mãe, acolhendo a todos que precisavam dela.o projeto ,foi inspirado nela devido os medicamentos e alimentação especial que necessitada para sobreviver.
+ O projeto carneira foi inspirado em uma gatinha deficiente que eu tive, que infelizmente faleceu no dia 12/07/2022, por conta de uma cistite, e de uma constipação intestinal. Ela me motivou muito, pois mesmo com as suas dificuldades de locomoção, e outros problemas acarretados pela sua deficiência, isso nunca foi um empecilho para que ela vivesse plenamente, e sempre feliz, mas também sempre pensando nos seus amiguinhos, e com seu espírito de mãe, acolhendo a todos que precisavam dela. Oo projeto foi inspirado nela devido aos medicamentos e a alimentação especial que ela necessitada para sobreviver.
 
             🔗 Apresentação do Projeto🐾
 
