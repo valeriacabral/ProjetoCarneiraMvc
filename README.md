@@ -8,7 +8,7 @@ Turma On19 backend da {Reprograma}!
 
  ### 🐾Este projeto é uma API com CRUD completo🐾
   
- O projeto carneira foi inspirado em uma gatinha deficiente que eu tive, que infelizmente faleceu no dia 12/07/2022, por conta de uma cistite, e de uma constipação intestinal. Ela me motivou muito, pois mesmo com as suas dificuldades de locomoção, e outros problemas acarretados pela sua deficiência, isso nunca foi um empecilho para que ela vivesse plenamente, e sempre feliz, mas também sempre pensando nos seus amiguinhos, e com seu espírito de mãe, acolhendo a todos que precisavam dela. Oo projeto foi inspirado nela devido aos medicamentos e a alimentação especial que ela necessitada para sobreviver.
+ O projeto carneira foi inspirado em uma gatinha deficiente que eu tive, que infelizmente faleceu no dia 12/07/2022, por conta de uma cistite, e de uma constipação intestinal. Ela me motivou muito, pois mesmo com as suas dificuldades de locomoção, e outros problemas acarretados pela sua deficiência, isso nunca foi um empecilho para que ela vivesse plenamente, e sempre feliz, mas também sempre pensando nos seus amiguinhos, e com seu espírito de mãe, acolhendo a todos que precisavam dela. O projeto foi inspirado nela devido aos medicamentos e a alimentação especial que ela necessitada para sobreviver.
 
             🔗 Apresentação do Projeto🐾
 
@@ -35,33 +35,27 @@ O proposito desse projeto, é fazer parceria com o hospital veterinário da cida
 Rotas🐾
 
 •📁 Arquitetura MVC🐾
-•📁Projeto Carneira
+•📁 Projeto Carneira
 •|
-•|-------📁node_modules
+•|--||---📁node_modules
 •|
-•|-------📁 src
+•|--||---📁 src
 •|  ||
 •|  ||
 •|  ||---📁 controllers
 •|  |    |- 📄 doacaoController.js
 •|  ||---📁 database
-•|  |    |- 📄 dbconectConnect.j
+•|  ||    |- 📄 dbconectConnect.j
 •|  ||---📁 models
-•|  |    |- 📄 pessoa.js
+•|  ||    |- 📄 pessoa.js
 •|  ||---📁 routes
-•|  |    |- 📄 index.js
-•  |    |- 📄 person.js
-•|  ||-📄 app.js
-•|  |---📁 swagger
+•|  ||    |- 📄 index.js
+•|  ||---📁 swagger
 •|  |
-•|- 📄 .env
-•|- 📄 .gitignore
-•|- 📄 package-lock.json
-•|- 📄 package.json
-•|- 📄 README.md
-•|- 📄 server.js
-•|- 📄 swagger.js
-
+•|- |-📄 package.json
+•|- |-📄 README.md
+•|- |-📄 server.js
+•|- |-📄 swagger.js
 
 
 
