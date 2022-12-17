@@ -37,22 +37,22 @@ Rotas🐾
 •📁 Arquitetura MVC🐾
 •📁Projeto Carneira
 •|
-•|--📁node_modules
+•|-------📁node_modules
 •|
-•|--📁 src
+•|-------📁 src
 •|  ||
 •|  ||
-•|  ||--📁 controllers
+•|  ||---📁 controllers
 •|  |    |- 📄 doacaoController.js
-•|  ||--📁 database
+•|  ||---📁 database
 •|  |    |- 📄 dbconectConnect.j
-•|  ||--📁 models
+•|  ||---📁 models
 •|  |    |- 📄 pessoa.js
-•|  ||--📁 routes
+•|  ||---📁 routes
 •|  |    |- 📄 index.js
 •  |    |- 📄 person.js
 •|  ||-📄 app.js
-•|  |--📁 swagger
+•|  |---📁 swagger
 •|  |
 •|- 📄 .env
 •|- 📄 .gitignore
@@ -85,21 +85,36 @@ Rotas🐾
 💾 Tecnologias e Dependências Utilizadas🐾
 
 •Ferramenta      	/|Descrição🐾
+
 •javascript	      /|Linguagem de programação utilizada nesse projeto.🐾
+
 •node.js          /|Ambiente de execução do javascript.🐾
+
 •express	         /|Framework NodeJS.
+
 •mongoose        	/|Dependência que interage com o MongoDB para a conexão da database, criação do model e das •collections.🐾
+
 •nodemon         	/|Dependência que observa as atualizações realizadas nos documentos para rodar o servidor automaticamente.🐾
+
 •npm             	/|Gerenciador de pacotes.🐾
+
 •MongoDb         	/|Banco de dados não relacional orietado a documentos.🐾
+
 •Mongo Atlas     	/|Interface gráfica para verificar se os dados foram persistidos.🐾
+
 •Postman	         /| Interface gráfica para realizar os testes.🐾
+
 •jsonwebtoken    	/|Dependência que implementa o protocolo JSON Web Token para segurança de dados.🐾
+
 •bcrypt    	      /|Biblioteca para encriptação de dados.🐾
-•dotenv	          /| Dependência para gerenciar facilmente variáveis de ambiente, não é obrigatório para JWT, mas uma •boa prática para /|configurações em geral.🐾
-jest	            Jest é uma estrutura de teste JavaScript.🐾
-swagger          	/|Gera a documentação do projeto.🐾
-Render	           /|Utilizado para realizar o deploy da aplicação e hospedar documentação.🐾
+
+•dotenv	          /| Dependência para gerenciar facilmente variáveis de ambiente, não é obrigatório para JWT, mas uma boa prática para configurações em geral.🐾
+
+•jest	            /| Jest é uma estrutura de teste JavaScript.🐾
+
+•swagger         	/|Gera a documentação do projeto.🐾
+
+•Render	          /|Utilizado para realizar o deploy da aplicação e hospedar documentação.🐾
 
 
 🔃 Retorna a documentação no swagger🐾
