@@ -1,8 +1,6 @@
 Turma On19 backend da {Reprograma}!
 
-[Carneira1](https://user-images.githubusercontent.com/109596998/208222348-35bf7c54-515b-4189-9ef3-405e806eb65f.png)
 
- 
 
  # __🐾Projeto Carneira🐾__
 
@@ -141,7 +139,6 @@ para delete(deletar)
 ![delete1 (2)](https://user-images.githubusercontent.com/109596998/208221699-1476918a-3513-4a72-9009-c7dfbf9a8d8f.png)
 
 ![mongo atlas](https://user-images.githubusercontent.com/109596998/208221943-5eba9d7c-6f68-4476-9e46-603af1cf7008.png)
-![swagger](https://user-images.githubusercontent.com/109596998/208222173-a3cfe2a8-794e-4821-8d4f-abd1b2cc0027.png)
 
 ![Render rotas (3)](https://user-images.githubusercontent.com/109596998/208222200-9c4063c9-1cb5-4402-9823-0b905f422237.png)
 
