@@ -1,4 +1,7 @@
-Turma On19 backend da {Reprograma}
+Turma On19 backend da {Reprograma}!
+
+[Carneira1](https://user-images.githubusercontent.com/109596998/208222348-35bf7c54-515b-4189-9ef3-405e806eb65f.png)
+
  
 
  # __🐾Projeto Carneira🐾__
@@ -130,17 +133,19 @@ para delete(deletar)
 
 ![post](https://user-images.githubusercontent.com/109596998/208220794-742c9792-8f54-4d29-9c28-7650cb2797a1.png)
 
-![rota get busca](https://user-images.githubusercontent.com/109596998/208220923-fce5195f-e911-425c-8c47-1797b193be2f.png)
+![get1 (2)](https://user-images.githubusercontent.com/109596998/208221586-02bc5218-e722-4b6f-a68e-d953f346a2a8.png)
 
-![rota put](https://user-images.githubusercontent.com/109596998/208220954-3bb9876b-33f6-40f9-bfbb-d072c9af21da.png)
 
-![delete](https://user-images.githubusercontent.com/109596998/208221018-3cfc19aa-25ba-42ff-a672-bd98e0b82c84.png)
+![put1 (2)](https://user-images.githubusercontent.com/109596998/208221648-a115e294-e1f5-4e0a-b027-adaed7dcac8f.png)
 
-![mongo](https://user-images.githubusercontent.com/109596998/208221042-b06bc1f6-cd10-489f-8e51-4cf295b89e16.png)
+![delete1 (2)](https://user-images.githubusercontent.com/109596998/208221699-1476918a-3513-4a72-9009-c7dfbf9a8d8f.png)
 
-![Render rotas (2)](https://user-images.githubusercontent.com/109596998/208221095-8e19d5e2-147b-476b-8216-cfca49145e2e.png)
+![mongo atlas](https://user-images.githubusercontent.com/109596998/208221943-5eba9d7c-6f68-4476-9e46-603af1cf7008.png)
+![swagger](https://user-images.githubusercontent.com/109596998/208222173-a3cfe2a8-794e-4821-8d4f-abd1b2cc0027.png)
 
-![rota post 1](https://user-images.githubusercontent.com/109596998/208221083-b78cc01c-fdbe-4e2a-ae7a-157f5f7dede9.png)
+![Render rotas (3)](https://user-images.githubusercontent.com/109596998/208222200-9c4063c9-1cb5-4402-9823-0b905f422237.png)
+
+![rota post 1 (2)](https://user-images.githubusercontent.com/109596998/208222259-2a624e63-4468-4bdb-9dd4-b80cc1d9cf56.png)
 
 
 
@@ -157,7 +162,10 @@ https://www.instagram.com/amordepatinhas2/
 lá você tera maiores informações..
 
 👨‍💻Autora🐾
+
 Valéria Cabral
+                                    ![Valeria Nunes (2)](https://user-images.githubusercontent.com/109596998/208222312-6255667b-c90b-4390-bd57-0174eaa2c743.png)
+
 https://www.linkedin.com/in/val%C3%A9ria-nunes-b87049191/
 
 
