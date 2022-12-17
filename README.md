@@ -1,6 +1,8 @@
 Turma On19 backend da {Reprograma}!
 
 
+  ![ carneira](https://uploaddeimagens.com.br/images/004/261/101/original/Carneira1.png?1671064366)
+                         
 
  # __🐾Projeto Carneira🐾__
 
@@ -22,41 +24,50 @@ O proposito desse projeto, é fazer parceria com o hospital veterinário da cida
 
 
 
-⚙️ Funcionalidades/Objetivos🐾
-
-
-
-🛠️ Tecnologias utilizadas🐾
-
-🛠️ Pacotes Utilizados🐾
-
-
-
 Rotas🐾
 
 •📁 Arquitetura MVC🐾
+
 •📁 Projeto Carneira
 •|
+
 •|--||---📁node_modules
+
 •|
+
 •|--||---📁 src
+
 •|  ||
+
 •|  ||
+
 •|  ||---📁 controllers
+
 •|  |    |- 📄 doacaoController.js
+
+
 •|  ||---📁 database
+
 •|  ||    |- 📄 dbconectConnect.j
+
 •|  ||---📁 models
+
 •|  ||    |- 📄 pessoa.js
+
 •|  ||---📁 routes
+
 •|  ||    |- 📄 index.js
+
 •|  ||---📁 swagger
+
 •|  |
 •|- |-📄 package.json
-•|- |-📄 README.md
-•|- |-📄 server.js
-•|- |-📄 swagger.js
 
+•|- |-📄 README.md
+
+•|- |-📄 server.js
+
+•|- |-📄 swagger.js
 
 
 
@@ -111,8 +122,10 @@ Rotas🐾
 •Render	          /|Utilizado para realizar o deploy da aplicação e hospedar documentação.🐾
 
 
+⚙️ Funcionalidades/Objetivos🐾
+
 🔃 Retorna a documentação no swagger🐾
-Swagger - Heroku
+Swagger -
 
 🔃 Retorna teste com apresentação🐾
 
@@ -120,12 +133,11 @@ Swagger - Heroku
 
 🔃 Manipulação das Rotas para put (atualizar) id 🐾
 
-🔃 Manipulação das Rotas 
-para delete(deletar)
+🔃 Manipulação das Rotas para delete(deletar)
 
 ✅ Schema Doacao🐾
 
-✅ API deve retornar seguinte JSON:🐾
+ API deve retornar seguinte JSON:🐾
 
 ✅ Schemapessoa🐾
 
@@ -136,6 +148,8 @@ para delete(deletar)
 🔃 name 🐾
 
 🔃 medicamento
+
+
 
 ![post](https://user-images.githubusercontent.com/109596998/208220794-742c9792-8f54-4d29-9c28-7650cb2797a1.png)
 
@@ -177,7 +191,6 @@ https://www.linkedin.com/in/val%C3%A9ria-nunes-b87049191/
 
 
 
-![ carneira](https://uploaddeimagens.com.br/images/004/261/101/original/Carneira1.png?1671064366)
 
 
 
